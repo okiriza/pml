@@ -132,7 +132,7 @@ for (i in 1:n.fold) {
 ## 2. Results
 
 ### Print the result from cross validation
-
+This is accuracy and its standard deviation.
 
 ```r
 mean(result)
